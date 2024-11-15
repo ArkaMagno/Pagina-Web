@@ -1,0 +1,122 @@
+head:
+  title: "Portafolio de Breyner"
+
+# showcase
+showcase:
+  enable: true
+  title: "Bienvenidos soy Breyner Jose Cervantes Lopez."
+  subtitle: "Estudiante de ingenieria electronica"
+  description: "Breyner es un estudiante de ingenieria electronica en la universidad del magdalena."
+  image:
+    x: "img/showcase/lights-sequence-satisfying.gif"
+    _2x: "img/showcase/lights-sequence-satisfying.gif"
+  imageMobile:
+    x: "img/showcase/lights-sequence-satisfying.gif"
+    _2x: "img/showcase/lights-sequence-satisfying.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contactese con Breyner"
+    URL: "mailto:breinerjoseum@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/breyner-jose-cervantes-lopez-3190ab339"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/breiner.cervanteslopez/"
+
+# about
+about:
+  enable: true
+  title: "Quien soy?"
+  content: 
+    <p class="lead">
+    <strong>Soy un joven que  por interacciones personales ama diseñar,prototipar,realizar circuitos electricos y electronicos. 
+    </p>
+    <p class="lead">
+    <strong>Mi area de interes</strong> es el diseño de circuitos microelectronicos y el funcionamiento de sistemas de potencia. 
+    Busco que mis circuitos provean solucones a problematicas reales de forma
+    sencilla y asequible para los consumidores. 
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/breyner-jose-cervantes-lopez-3190ab339"
+  image:
+    x: "img/who-am-i/Foto-personal.jpg"
+    _2x: "img/who-am-i/Foto-personal.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Mas de 3 años realizando circuitos para diversos fines, ya sea para realizar contadores utilizando compuertas logicas,amplificadores de bajas señales con transistores bjt."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com//in/breyner-jose-cervantes-lopez-3190ab339"
+
+
+# education
+education:
+  enable: true
+  title: "Educacion"
+  items:
+    - university: "Colegio mis primeros pasos"
+      year: "2008-2012"
+      degree: "Basica primaria"
+
+    - university: "Instituto Ariano"
+      year: "2013-2018"
+      degree: "Bachiller"
+      
+    - university: "Universidad del Magdalena"
+      year: "2018-202x"
+
+
+# Client & Work
+client_and_work:
+  title: "Portafolio"
+  enable: true
+  
+
+  works:
+    - title: "Estudio estadistico sobre la poblacion de ingenieria electronica"
+      description: "En este estudio se realizo una muestra piloto para generar una idea de las medidas de la cintura de la poblacion de ingenieria electronica,una vez realizada esta prueba piloto mediante las formulas encontradas en la asignatura de estadistica 2 encontramos la muestra real y procedimos a encontrar las medidas de los estudiantes."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://www.youtube.com/watch?si=S0M99dUvb7ErxYXD&v=RLhs2u2y54Y&feature=youtu.be"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+
+# contact
+contact:
+  enable: true
+  title: "Contactese con Breyner"
+    
+  image:
+    x: "img/who-am-i/Foto-personal - 2.jpg"
+    _2x: "img/who-am-i/Foto-personal - 2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Envie un mensaje"
+    btnAction: 'mailto:breinerjoseum@gmail.com'
+    
+  phone:
+    title: "Numero de celular"
+    number: "+57 3157602814"
+  email:
+    title: "Email"
+    email: '<a href="mailto:breinerjoseum@gmail.com">breinerjoseum@gmail.com</a>'
+  address:
+    title: "Direccion"
+    address: "Calle 4#21e97 barrio San Fernando"
+  
+
+
